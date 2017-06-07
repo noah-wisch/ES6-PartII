@@ -11,3 +11,6 @@ Build a starter project for es6 in webpack.
 
 
 Enjoy the course, and keep coding!
+
+
+-- Note, this repo was cloned from @15Dkatz
